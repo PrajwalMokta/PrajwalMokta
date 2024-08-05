@@ -1,9 +1,11 @@
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xbRlYeBK_qriy0cgXuNbUw8B5kqTwNeP4A&s)
 <h1 align="center">Hi 👋, I'm Prajwal Moktan</h1>
-<h3 align="center">A passionate web developer from Birtamode,Jhapa(Nepal)</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">A passionate Web Developer from Birtamode,Jhapa(Nepal)</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmokta&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmokta" /> </p>
+
+<p align="left"> <a href="https://twitter.com/prajwalmokta" target="blank"><img src="https://img.shields.io/twitter/follow/prajwalmokta?logo=twitter&style=for-the-badge" alt="prajwalmokta" /></a> </p>
 
 - 🌱 I’m currently learning **PHP Laravel, SEO, React, Java**
 
@@ -13,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/prajwalmokta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwalmokta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajwal moktan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal moktan" height="30" width="40" /></a>
+<a href="https://fb.com/prajwal tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajwal tamang" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwal tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal tamang" height="30" width="40" /></a>
 </p>
 
